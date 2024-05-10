@@ -3,4 +3,4 @@
 <a href="https://stackoverflow.com/users/2467140">StackOverflow</a>&nbsp;|&nbsp;
 <a href="https://gitlab.com/gbrener">GitLab</a>&nbsp;|&nbsp;
 <a href="https://twitter.com/greg_brener">Twitter</a>&nbsp;|&nbsp;
-<a rel="me" href="https://mastodon.social/@gregbrener">Mastodon</a>    
+<a rel="me" href="https://mastodon.social/@gregbrener">Mastodon</a>
