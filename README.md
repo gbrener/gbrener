@@ -4,3 +4,5 @@
 <a href="https://gitlab.com/gbrener">GitLab</a>&nbsp;|&nbsp;
 <a href="https://twitter.com/greg_brener">Twitter</a>&nbsp;|&nbsp;
 <a rel="me" href="https://mastodon.social/@gregbrener">Mastodon</a>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B5235G2)
